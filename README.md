@@ -1,5 +1,6 @@
 # LargePakPatchRedirect
+This redirect was created for large mods and similar items.
 
-Base is [Tellurium](https://github.com/plooshi/Tellurium)
-
-LargePakPatch dll from [here](https://github.com/Twin1dev/LargePakPatch)
+# Credit
+[Tellurium](https://github.com/plooshi/Tellurium)
+[LargePakPatch](https://github.com/Twin1dev/LargePakPatch)
